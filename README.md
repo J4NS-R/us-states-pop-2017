@@ -1,6 +1,9 @@
 # us-states-pop-2017
-A json formatted object of US states and their populations in 2017.
-Useful for visualising data.
+A json formatted object of US states and their populations in 2017. Parsed from [Wikipedia](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population).
+
+Useful for visualising data in elasticsearch.
+
+State lookup available [here](https://gist.github.com/mshafrir/2646763).
 
 ```
 {  
